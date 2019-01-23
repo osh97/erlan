@@ -1,0 +1,128 @@
+.navbar-brand{
+	position: absolute;
+	top: 0;
+	left: 50%;
+	margin-left: -90px;
+	font-size: 2.3em;
+	font-weight: bold;
+	color: #000;
+}
+section{
+	height: 500px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 110px;
+}
+main{
+	margin-bottom: 50px;
+}
+section .container{
+	position: relative;
+}
+section .navbar-default{
+	width: 100%;
+	position: absolute;
+	top: -130px;
+	left: 0;
+	right: 0;
+}
+section h1{
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	font-size: 4.5em;
+	letter-spacing: 10px;
+	margin-bottom: 100px;
+}
+.a-box img{
+	width: 100%;
+}
+.box{
+	height: 110px;
+	background: blue;
+	text-align: center;
+	padding-top: 20px;
+	color: #fff;
+	font-size: 2em;
+	font-weight: bold;
+}
+.h1{
+	text-align: center;
+	margin-top: 160px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+.chasy4{
+	text-align: center;
+	overflow: hidden;
+}
+.chasy4 img{
+	transition: 1s;
+}
+.chasy4:hover img{
+	transform: scale(1.2);
+}
+.chasy4 button{
+	padding: 10px 30px;
+	color: blue;
+	background: transparent;
+	border: 1px solid #ccc;
+	margin-bottom: 20px;
+}
+.chasy4 .p{
+	font-weight: bold;
+	font-size: 1.5em;
+}
+.chasy4 a{
+	text-decoration: none;
+}
+.jumbotron{
+	background: green;
+}
+.jumbotron h1{
+	color: #fff;
+	text-align: center;
+	font-weight: bold;
+	font-size: 3em;
+}
+.rolex{
+	overflow: hidden;
+}
+.rolex img{
+	transition: 0.5s;
+}
+.rolex:hover img{
+	transform: scale(1.1);
+}
+.syrot{
+	overflow: hidden;
+}
+.syrot img{
+	transition: 1s;
+}
+.syrot:hover img{
+	transform: scale(1.2);
+}
+.syrot img{
+	width: 100%;
+}
+.main h1{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+#map{
+	width: 100%;
+	height: 300px;
+}
+.box-a{
+	color: #fff;
+}
+.box-a ul{
+	list-style: none;
+	margin:  0 0 0 -40px;
+}
+.box-a li a{
+	color: inherit;
+	text-decoration: none;
+}
